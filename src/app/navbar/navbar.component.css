@@ -1,0 +1,24 @@
+ul{
+    margin: 0%;  
+  
+  }
+  ul li{
+      display: block;
+  list-style: none;
+  display: inline-block;
+  line-height: 100px; 
+  
+  
+  
+  }
+  ul li a {
+  text-decoration: none;
+  font-size: 120%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(219, 146, 36);
+  padding: 0 20px;
+  
+  }
+  ul li a:hover{
+      color: cadetblue;
+  }
